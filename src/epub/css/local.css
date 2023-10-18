@@ -1,8 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:letter"] header{
-	text-align: right;
+#prologue{
+	margin-top: 20vh; /* I added this because lint asked me to, but...? */
 }
 
 footer{
@@ -10,20 +10,12 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:sender"],
-[epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:postscript"]{
-	margin-top: 1em;
-	text-align: initial;
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
