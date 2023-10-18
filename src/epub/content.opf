@@ -47,7 +47,9 @@
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">The discovery of the quiet death of an elderly man at an exclusive club leads to unexpected complications.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Unpleasantness at the Bellona Club&lt;/i&gt;, published in 1928, is the fourth novel by &lt;a href="https://standardebooks.org/ebooks/dorothy-l-sayers"&gt;Dorothy L. Sayers&lt;/a&gt; in her series of mysteries featuring her aristocratic detective Lord Peter Wimsey.&lt;/p&gt;
+			&lt;p&gt;As the novel opens, Wimsey is at the exclusive Bellona Club, prior to attending an Armistice Day dinner, when a very elderly man, General Fentiman, is discovered to have died quietly in his chair. Following the old man’s death, which appears to have been of natural causes, a question arises about the exact timing of his decease because of a dispute over the will of Fentiman’s wealthy sister. Assigned to try to determine this fact, Wimsey’s investigations soon lead to many puzzling complications.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Unpleasantness at the Bellona Club&lt;/i&gt; was regarded by at least one prominent critic to be the best of Sayers’ early work. It was made into a television mini-series in 1973 by the B.B.C.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/lordpeterviewsbo0000doro/</dc:source>
