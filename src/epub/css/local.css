@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #prologue{
-	margin-top: 20vh; /* I added this because lint asked me to, but...? */
+	margin-top: 20vh;
 }
 
 footer{
